@@ -14,7 +14,8 @@ A modern, responsive, and feature-rich Ecommerce Product Listing and Catalog web
 
 The hero section features custom collage artwork with a glassmorphic container and twin frosted glass action buttons:
 
-![StoreCraft Artwork](images/hero-bg.jpg)
+![StoreCraft Artwork](images/UI.png)
+![StoreCraft Artwork](images/UI2.png)
 
 ---
 
